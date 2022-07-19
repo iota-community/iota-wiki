@@ -72,7 +72,7 @@
   justify-content: space-between;
   align-items: flex-end;
   width: 100%;
-  background: right bottom / 45% no-repeat url('/img/homepage/header.svg');
+  background: right bottom / 45% no-repeat url('/img/homepage/header.svg') ,right bottom / 45% no-repeat url('/img/homepage/header_body.svg');
 }
 
 @media (max-width: 996px) {
@@ -271,6 +271,7 @@
 
 .start-building {
   background: left top / 40% auto no-repeat
+  url('/img/homepage/smartcontracts_bot_arms.svg'), left top / 40% auto no-repeat
       url('/img/homepage/smartcontracts_bot.svg');
   width: 100%;
   min-height: 30rem;
