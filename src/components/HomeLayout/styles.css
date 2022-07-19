@@ -271,8 +271,7 @@
 
 .start-building {
   background: left top / 40% auto no-repeat
-      url('/img/homepage/smartcontracts_bot.svg'),
-    right bottom no-repeat url('/img/homepage/smartcontracts_circle.svg');
+      url('/img/homepage/smartcontracts_bot.svg');
   width: 100%;
   min-height: 30rem;
   padding-right: 2rem;
