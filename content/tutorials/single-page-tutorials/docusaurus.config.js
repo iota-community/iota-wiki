@@ -113,6 +113,17 @@ module.exports = {
                 tags: ['text', 'wallet', 'getting-started', 'rust', 'testnet'],
             },
         ],
+        [
+            '@iota-wiki/plugin-tutorial',
+            {
+                title: 'How to mint a native NFT with Javascript on Shimmer',
+                description:
+                    'Learn how to mint an NFT on the Shimmer Network with Javascript',
+                preview: 'send-shimmer-tokens-with-wallet-lib.png',
+                route: 'mint-nft-with-javascript-shimmer/thumbnail',
+                tags: ['text', 'Shimmer', 'NFT', 'beginner', 'javascript', 'iota.js'],
+            },
+        ],
     ],
     staticDirectories: [path.resolve(__dirname, './images')],
 };
