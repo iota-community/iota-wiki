@@ -372,3 +372,11 @@ ul ul .table-of-contents__link {
 .theme-doc-sidebar-container {
   margin-right: 1rem;
 }
+
+
+.__react_component_tooltip{
+  max-width: 80%;
+}
+.tooltip{
+  color: var(--ifm-link-color);
+}
